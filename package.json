@@ -16,5 +16,8 @@
     "log4js": "^2.3.10",
     "mysql2": "^1.4.2",
     "sequelize": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
   }
 }
